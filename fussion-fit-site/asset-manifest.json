@@ -1,0 +1,34 @@
+{
+  "instagramAssetsRetrieved": 0,
+  "userSuppliedMedia": {
+    "sourceFolder": "C:/Users/Gaurav Jee/Downloads/fussion gym media/",
+    "sourcePhotosUsed": 6,
+    "optimizedLocalImageFiles": 9,
+    "localVideoFiles": 1
+  },
+  "map": {
+    "providedUrl": "https://maps.app.goo.gl/qjhor28bSnhqf27t6",
+    "websiteUse": "Dedicated location section and footer link",
+    "resolvedDuringBuild": false,
+    "note": "The short link timed out in this environment. The exact URL supplied by the user is linked directly; no street address or coordinates are claimed."
+  },
+  "assets": [
+    { "path": "public/images/hero-lift.webp", "sourceFile": "Instagram gym visual Everyone walks into the gym... (5).jpg", "kind": "cropped optimized photo", "section": "Hero background with scroll parallax", "approval": "Confirm photo reuse rights and consent for identifiable person before publication" },
+    { "path": "public/images/strength-training.webp", "sourceFile": "Instagram gym visual Everyone walks into the gym... (5).jpg", "kind": "cropped optimized photo", "section": "Strength training card", "approval": "Confirm photo reuse rights and consent for identifiable person before publication" },
+    { "path": "public/images/training-floor.webp", "sourceFile": "Instagram gym visual Everyone walks into the gym... (1).jpg", "kind": "cropped optimized photo", "section": "Gym space and photo gallery", "approval": "Confirm photo reuse rights and consent for identifiable person before publication" },
+    { "path": "public/images/gym-cardio-area.webp", "sourceFile": "Instagram gym visual Everyone walks into the gym... (3).jpg", "kind": "cropped optimized photo", "section": "Cardio training card and gallery", "approval": "Confirm photo reuse rights and consent for identifiable person before publication" },
+    { "path": "public/images/group-training.webp", "sourceFile": "Instagram gym visual Everyone walks into the gym... (4).jpg", "kind": "cropped optimized photo", "section": "Training card and gallery", "approval": "Confirm photo reuse rights and releases for identifiable people before publication" },
+    { "path": "public/images/gym-floor-member.webp", "sourceFile": "Always remember... While they're whining, I'm grinding..jpg", "kind": "optimized photo", "section": "Photo gallery", "approval": "Confirm photo reuse rights and consent for identifiable person before publication" },
+    { "path": "public/images/gym-owner.webp", "sourceFile": "owner.jpg", "kind": "cropped optimized portrait", "section": "Owner story portrait", "approval": "Confirm subject identity and approval to publish" },
+    { "path": "public/images/owner-story-poster.webp", "sourceFile": "owner.jpg", "kind": "cropped optimized poster", "section": "Owner story video poster", "approval": "Confirm subject identity and approval to publish" },
+    { "path": "public/images/training-moment.webp", "sourceFile": "We’re sorry.Once you train here... (1).jpg", "kind": "cropped optimized photo", "section": "Not used; retained in media folder for later review", "approval": "Contains source campaign text; review before any future use" },
+    { "path": "public/videos/women-empowerment-story.mp4", "sourceFile": "Women’s Empowerment - Safety, Respect & Trust...mp4", "kind": "user-supplied MP4", "section": "Owner/team story; controls, no autoplay, load on play", "approval": "Confirm reuse rights and releases for identifiable people; captions are still needed" }
+  ],
+  "prelaunchFollowUp": [
+    "Confirm permission to publish the supplied gym visuals and video; collect releases for people who can be identified.",
+    "Confirm the portrait subject is the gym owner and approve its use.",
+    "Add accurate captions to the video after reviewing its dialogue.",
+    "Verify current contact and business information before launch."
+  ],
+  "videoDelivery": "Original supplied MP4 copied locally (2,420,396 bytes); 9:16 portrait presentation, preload=none, playsinline, user controls."
+}
